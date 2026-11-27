@@ -60,12 +60,29 @@ Análisis integral de **RappiPlus**, un servicio de suscripción dentro del ecos
 4. **Marketing:** gasto, profit neto, ROAS y ROI por canal y país.
 5. **Funnel, retención y A/B:** resultados de SQL y del test estadístico.
 
+### Capturas
+
+**Overview ejecutivo**
+![Overview ejecutivo](img/01_overview_ejecutivo.png)
+
+**Detalle de pedidos**
+![Detalle de pedidos](img/02_detalle_pedidos.png)
+
+**Detalle de producto (drill-through)**
+![Detalle de producto](img/03_detalle_producto.png)
+
+**Marketing y canales**
+![Marketing y canales](img/04_marketing.png)
+
+**Funnel, retención y test A/B**
+![Funnel, retención y test A/B](img/05_funnel_retencion_ab.png)
+
 ## 📁 Contenido del repositorio
 
 | Archivo | Descripción |
 |---|---|
 | `RappiPlus_Proyecto_Final.ipynb` | Notebook con limpieza, KPIs, SQL, cohortes y test A/B |
-| `RappiPlus_Dashboard.pbix` | Dashboard de Power BI Desktop |
+| `RappiPlus_Dashboard.pbix` | Dashboard de Power BI Desktop (5 páginas) |
 | `data/` | CSV limpios usados en el dashboard |
 | `img/` | Capturas del dashboard |
 
